@@ -45,7 +45,7 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: #4154f1;
+  color: #e91a2b;
   text-transform: uppercase;
 }
 
@@ -126,7 +126,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  background: #e91a2b;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -140,7 +140,7 @@ section {
 }
 
 .back-to-top:hover {
-  background: #6776f4;
+  background: #e91a2b;
   color: #fff;
 }
 
@@ -186,7 +186,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #e91a2b;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -238,12 +238,12 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #4154f1;
+  color: #e91a2b;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #4154f1;
+  background: #e91a2b;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -1677,7 +1677,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #4154f1;
+  background: #e91a2b;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -2277,7 +2277,7 @@ section {
 }
 
 .footer .footer-top {
-  background: white url(../img/footer-bg.png) no-repeat right top;
+ /* background: white url(../img/footer-bg.png) no-repeat right top;*/
   background-size: contain;
   border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff;
