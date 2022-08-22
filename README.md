@@ -1,0 +1,2 @@
+# StakesMania
+Test task: StakesMania
